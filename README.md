@@ -77,6 +77,11 @@ Key Performance Indicators (KPIs) serve as benchmarks for evaluating the effecti
 
 ## Sales Dashboard
 *Insert relevant screenshots or links to the sales dashboard showcasing key sales metrics and visualizations.*
+![WhatsApp Image 2024-05-04 at 12 55 16 PM](https://github.com/FajanSunusara/Power-BI-sales-Dashboard/assets/49346372/b43286a7-531a-4dfc-83fe-e074a0e749cb)
+
+![WhatsApp Image 2024-05-04 at 12 55 41 PM](https://github.com/FajanSunusara/Power-BI-sales-Dashboard/assets/49346372/2e0b4f84-5525-4163-be15-c1d8ca23a30f)
+
+![WhatsApp Image 2024-05-04 at 12 56 23 PM](https://github.com/FajanSunusara/Power-BI-sales-Dashboard/assets/49346372/b624eb84-8f55-47d3-b0b2-cf5480010d37)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
